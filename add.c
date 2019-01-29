@@ -8,7 +8,7 @@ int main(){
 int x,y;
 printf("Enter the numbers:");
 scanf("%d%d",&x,&y);
-printf("addition of two numbers");
+printf("This is to try the push from other branch");
 printf("%d",addf(x,y));
 return 0;
 }
